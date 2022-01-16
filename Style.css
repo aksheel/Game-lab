@@ -1,0 +1,30 @@
+.line {
+    height: 2px;
+    width: 100%;
+    background-color:blue;
+}
+
+body {
+    text-align: center;
+}
+
+#app,#game,#chat {
+    height: 800px;
+    width: 100%;
+} 
+
+#app {
+    background:linear-gradient(cornflowerblue,blue);
+}
+
+#game {
+    background:linear-gradient(yellow,green);
+}
+
+#chat {
+    background:linear-gradient(orange,red);
+}
+#carousel {
+    background-color:coral;
+    
+}
